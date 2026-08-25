@@ -1,28 +1,36 @@
 <div align="center">
 
   <!-- Header Banner / Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hey%20👋,%20I'm%20Yaswanth!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder&descFontSize=20&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hey%20👋,%20I'm%20Thanniru%20Yaswanth!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Builder&descFontSize=19&descAlignY=60" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Backend+Architect+%26+System+Design;MERN+Stack+%26+AI+Integration;Dark+Mode+Purist;Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full-Stack+Web+Developer;Cybersecurity+Student+%26+Network+Explorer;MERN+Stack+%26+Python%2FDjango+Engineer;DSA+%26+High-Performance+System+Design;Dark+Mode+Purist;Building+Secure+%26+Scalable+Software" alt="Typing SVG" />
   </a>
 
+  <!-- Profile Visitor Counter & Quick Stats -->
   <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
       <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 
+  <!-- Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    &nbsp;
+    <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    &nbsp;
+    <a href="mailto:yash1th2k4@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
     <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -34,53 +42,38 @@
 
 ```javascript
 const yaswanth = {
-    pronouns: "He" | "Him",
-    role: "Full-Stack Developer & Software Engineer",
-    codebase: ["JavaScript", "TypeScript", "Python", "C++"],
-    stack: ["React", "Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-    architecture: ["System Design", "Microservices", "RESTful APIs", "DB Optimization"],
-    passions: ["Deep Backend Engineering", "AI Integrations", "High-Performance Systems"],
+    name: "Thanniru Yaswanth",
+    education: "B.Tech in CSE (Cyber Security) @ Parul University (2022-2026)",
+    roles: ["Full-Stack Developer", "Cybersecurity Researcher", "Problem Solver"],
+    languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "C++"],
+    specializations: ["MERN Stack", "Django & ML Integration", "System Security", "Network Architecture"],
+    corePassions: ["Under-the-Hood Engineering", "API Security & Auth", "High-Performance Systems"],
     funFact: "Dark mode isn't a preference. It's a permanent setting. 🌙"
 };
 ```
 
-I'm a passionate full-stack engineer driven by curiosity to understand how systems work under the hood. From crafting responsive, accessible user interfaces to engineering robust backends, databases, and microservices — I build scalable software that solves practical real-world problems.
+I'm a **Full-Stack Developer** and **Cybersecurity student** at Parul University. I bridge the gap between building high-performance, dynamic web applications and designing hardened, secure backends. With hands-on internship experience in full-stack web development and applied machine learning, I love dissecting complex systems, optimizing APIs, and crafting intuitive user experiences.
 
 ---
 
-### 🚀 What I'm Up To
+### 💼 Experience & Background
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔭 Current Focus</h4>
-      <ul>
-        <li><b>Building:</b> <a href="https://github.com/Thanniru-yaswanth03/ProgressTracker"><b>ProgressTracker</b></a> — Full-stack productivity & progress tracking ecosystem.</li>
-        <li><b>Mastering:</b> Data Structures & Algorithms & High-Level System Design.</li>
-        <li><b>Exploring:</b> AI integration, LLM orchestrations & edge performance.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌱 Core Competencies & Interests</h4>
-      <ul>
-        <li>Scalable Backend Engineering & Data Modeling</li>
-        <li>Authentication, RBAC & Security Engineering</li>
-        <li>Database Tuning & High-Throughput APIs</li>
-        <li>Developer Tooling & Infrastructure Automation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 💼 **Full-Stack Developer Intern** @ *Paithacs Software Solutions Pvt. Ltd.* *(Jan 2026 – Apr 2026)*
+  - Engineered production-ready web features across both frontend and server-side components.
+  - Implemented secure REST APIs, streamlined database workflows, and elevated responsive UI performance.
+- 🌐 **Developer Intern** @ *AICTE Oasis Infobyte* *(Dec 2024 – Jan 2025)*
+  - Developed modular, responsive frontend architectures with clean DOM manipulations and accessible components.
+- 🎓 **B.Tech in Computer Science & Engineering (Cyber Security)** @ *Parul University (PIET)* | `CGPA: 7.71`
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-  <b>Languages</b><br>
+  <b>Languages & Fundamentals</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Languages" />
   </a>
   <br><br>
 
@@ -92,29 +85,27 @@ I'm a passionate full-stack engineer driven by curiosity to understand how syste
 
   <b>Backend, Databases & APIs</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" alt="Backend & DB" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,prisma,firebase" alt="Backend & DB" />
   </a>
   <br><br>
 
-  <b>DevOps, Cloud & Tools</b><br>
+  <b>Security, DevOps & Tooling</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,npm" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,git,github,docker,postman,vscode,npm" alt="Security & Tools" />
   </a>
 
 </div>
 
 ---
 
-### 🔨 Featured Project
+### 🔨 Featured Projects
 
 <div align="center">
 
-| 🚀 **[ProgressTracker](https://github.com/Thanniru-yaswanth03/ProgressTracker)** |
-| :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=ProgressTracker&theme=tokyonight&show_owner=true" alt="ProgressTracker Pin" /> |
-| **A full-stack productivity and progress-tracking application** designed to help users organize tasks, measure actionable progress, and make data-driven decisions. |
-| 🏷️ **Tech & Focus:** `Full-Stack` • `Authentication` • `REST APIs` • `Database Architecture` • `AI Optimization` |
-| 👉 **[Explore Repository ↗](https://github.com/Thanniru-yaswanth03/ProgressTracker)** |
+| 🚀 Project | 🎯 Description & Highlights | 🛠️ Tech Stack | 🔗 Links |
+| :--- | :--- | :--- | :---: |
+| **ProgressTracker** | Full-stack productivity & progress tracking ecosystem enabling data-driven task scheduling, intelligent progress analytics, and workflow management. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST APIs` | [**GitHub Repo ↗**](https://github.com/Thanniru-yaswanth03/ProgressTracker) |
+| **Fake News Detection System** | Machine learning-powered platform for real-time news credibility assessment featuring custom ML inference, responsive UI, and secure authentication. | `Python` `Django` `Machine Learning` `JavaScript` `DOM APIs` | [**Live Demo ↗**](https://fakenewsdetectionsystem.pythonanywhere.com/) |
 
 </div>
 
@@ -131,13 +122,20 @@ I'm a passionate full-stack engineer driven by curiosity to understand how syste
 
   <br><br>
 
-  <!-- GitHub Overall Stats & Most Used Languages Side by Side -->
+  <!-- GitHub Overall Stats & Most Used Languages -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Overall Stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" width="48%" />
   </p>
 
-  <!-- Activity Trophy / Contribution Graph -->
+  <!-- LeetCode Stats Card -->
+  <p align="center">
+    <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/yash1th2k4?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
+    </a>
+  </p>
+
+  <!-- Dynamic Profile Trophies -->
   <a href="https://github.com/Thanniru-yaswanth03">
     <img src="https://github-profile-trophy.vercel.app/?username=Thanniru-yaswanth03&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" width="100%" />
   </a>
@@ -146,17 +144,48 @@ I'm a passionate full-stack engineer driven by curiosity to understand how syste
 
 ---
 
+### 🧠 Areas of Exploration
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔒 Cybersecurity & Architecture</h4>
+      <ul>
+        <li>Network Penetration Testing & Vulnerability Assessment</li>
+        <li>Kali Linux & Defensive Security Practices</li>
+        <li>Authentication, RBAC & API Defense In-Depth</li>
+        <li>Microservices Architecture & Resilient System Design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Engineering & Intelligence</h4>
+      <ul>
+        <li>Data Structures & Algorithms Optimization (<a href="https://leetcode.com/u/yash1th2k4/">LeetCode</a>)</li>
+        <li>Full-Stack MERN & Python/Django Scalability</li>
+        <li>AI & Machine Learning Ingestions in Production</li>
+        <li>High-Throughput Databases & SQL/NoSQL Modeling</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-  <p><b>Always open to discussing software architecture, open-source projects, and exciting engineering opportunities!</b></p>
+  <p><b>Always enthusiastic about collaborating on full-stack web applications, security engineering, and open-source software!</b></p>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:yash1th2k4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
