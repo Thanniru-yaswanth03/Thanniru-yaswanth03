@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=250&section=header&text=Thanniru%20Yaswanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20MERN%20%26%20Next.js&descFontSize=20&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Thanniru%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
@@ -80,17 +80,6 @@
 - 💼 **Industry Experience**: Full-Stack Developer Intern at **Paithacs Software Solutions** & Web Developer Intern at **AICTE Oasis Infobyte**.
 - 🚀 **Full-Stack Mastery**: Specializing in end-to-end web engineering — crafting ultra-responsive frontends powered by modular, performant, and secure backends.
 - 💡 **Engineering Standards**: Heavy emphasis on reusable component design, RESTful API architecture, type safety, and optimized database indexing.
-
-<br>
-
-<!-- ================= GITHUB TROPHIES ================= -->
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thanniru-yaswanth03&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-  </a>
-</div>
 
 <br>
 
@@ -176,14 +165,14 @@
 
 <div align="center">
 
-  <!-- Streak Stats (Verified Working Demolab API) -->
+  <!-- Streak Stats (Demolab API) -->
   <a href="https://github.com/Thanniru-yaswanth03">
     <img src="https://streak-stats.demolab.com?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- Overall Stats & Top Languages Side-by-Side (Verified Working Fast API) -->
+  <!-- Overall Stats & Top Languages Side-by-Side (Fast API) -->
   <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
@@ -193,15 +182,6 @@
     </a>
   </p>
 
-</div>
-
-<br>
-
-<!-- ================= INSPIRING TECH QUOTE ================= -->
-<div align="center">
-  <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  </a>
 </div>
 
 <br>
@@ -234,7 +214,7 @@
   <br><br>
 
   <!-- ================= FOOTER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <sub><b><i>Built with 💙 by Thanniru Yaswanth • Architect. Build. Scale. 🚀</i></b></sub>
 
