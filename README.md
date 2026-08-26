@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=240&section=header&text=Thanniru%20Yaswanth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Specialist%20%E2%80%A2%20System%20Builder&descFontSize=19&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=250&section=header&text=Thanniru%20Yaswanth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Specialist%20%E2%80%A2%20System%20Architect&descFontSize=20&descAlignY=58" width="100%" alt="Header Banner" />
 
   <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full-Stack+Web+%26+Cloud+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+Network+Defender;%F0%9F%92%BB+MERN+Stack+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Architecting+Scalable%2C+Interactive+Web+Apps;%F0%9F%8C%99+Dark+Mode+Purist+%26+Clean+Code+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full-Stack+Architect+%26+Cloud+Builder;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+Network+Defender;%F0%9F%92%BB+MERN+Stack+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Engineering+Interactive+%26+Resilient+Web+Apps;%F0%9F%8C%99+Dark+Mode+Purist+%26+Clean+Code+Artisan" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -13,7 +13,7 @@
   <!-- ================= SOCIAL & QUICK LINKS BADGES ================= -->
   <p align="center">
     <a href="https://portfolio-roan-one-50.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
@@ -29,54 +29,56 @@
     </a>
   </p>
 
-  <!-- ================= PROFILE VIEWS & STATUS ================= -->
+  <!-- ================= PROFILE VIEWS & STATUS TAGS ================= -->
   <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-0ea5e9?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security-6366f1?style=flat-square&logo=shield&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Parul%20University-B.Tech%20CSE-orange?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security-6366f1?style=for-the-badge&logo=shield&logoColor=white" alt="Focus" />
   </p>
 
 </div>
 
 <br>
 
-<!-- ================= ANIMATED GLOWING CODE DIVIDER ================= -->
+<!-- ================= ANIMATED CYBER DIVIDER ================= -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
 <br>
 
 <!-- ================= ABOUT ME / TERMINAL SECTION ================= -->
-## 👨‍💻 `whoami` & Core Philosophy
+## 🔮 `whoami` & Terminal Identity
 
-```javascript
-/**
- * ⚡ System Identity: Yaswanth Thanniru
- * 🛡️ Cyber Security Specialist & Full-Stack Architect
- */
-const yaswanth = {
-  name: "Thanniru Yaswanth",
-  academicPath: "B.Tech in CSE (Cyber Security) @ Parul University (2022-2026)",
-  domains: [
+```bash
+┌──(yaswanth💀cyber-core)-[~]
+└─$ cat profile.json
+```
+
+```json
+{
+  "name": "Thanniru Yaswanth",
+  "alias": "yash1th2k4",
+  "education": "B.Tech in CSE (Cyber Security) @ Parul University (2022-2026)",
+  "domains": [
     "Full-Stack Web Architecture (MERN, Next.js, Django)",
     "Cybersecurity, Network Analysis & System Hardening",
     "High-Performance Reactive UI/UX Engineering",
     "RESTful APIs, Database Design & Microservices"
   ],
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "C++", "SQL", "Bash"],
-  currentlyExploring: ["Advanced Cloud Security", "Scalable Distributed Systems", "AI/ML Integrations"],
-  creed: "Build with precision, design with elegance, and secure by default. 🛡️⚡",
-  funFact: "Dark mode isn't just a UI theme; it's a way of life. 🌙"
-};
+  "languages": ["JavaScript", "TypeScript", "Python", "Java", "C", "C++", "SQL", "Bash"],
+  "mission": "Write code so clean it feels like art; build security so tight it feels impenetrable.",
+  "funFact": "Dark mode isn't just a theme — it's an engineering philosophy. 🌙⚡"
+}
 ```
 
-### ⚡ Quick Highlights
-- 🎓 **Undergrad**: B.Tech in Computer Science & Engineering (Specialization: **Cyber Security**) at **Parul University** *(2022 – 2026)*.
-- 💼 **Experience**: Full-Stack Developer Intern at **Paithacs Software Solutions** & Web Dev Intern at **AICTE Oasis Infobyte**.
-- 💡 **Engineering Approach**: Merging fluid, responsive frontend aesthetics with resilient, scalable, and secure backend systems.
-- 🎯 **Goals**: Developing end-to-end applications that solve real-world problems while maintaining strict cybersecurity standards.
+### ⚡ Engineering DNA
+- 🎓 **Academic Excellence**: Computer Science & Engineering (Specialization: **Cyber Security**) at **Parul University** *(2022 – 2026)*.
+- 💼 **Proven Experience**: Full-Stack Developer Intern at **Paithacs Software Solutions** & Web Dev Intern at **AICTE Oasis Infobyte**.
+- 🛡️ **Cyber Defense**: Hands-on network vulnerability analysis, Linux system administration, and zero-trust application architecture.
+- 🚀 **Full-Stack Craftsmanship**: Creating blisteringly fast frontends connected to rock-solid, scalable backend infrastructures.
 
 <br>
 
@@ -85,7 +87,7 @@ const yaswanth = {
 
 <div align="center">
 
-| Project | Highlights & Tech Stack | Live Demo & Source |
+| Project | Key Highlights & Architecture | Live App & Source |
 | :--- | :--- | :---: |
 | <br>**📈 ProgressTracker**<br><sub>Full-Stack Productivity Ecosystem</sub> | • Comprehensive task manager, milestone tracking & productivity analytics.<br>• Secure JWT authentication, RESTful APIs & real-time updates.<br><br>`React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` `Vercel` | <br><a href="https://progress-tracker-three-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
 | <br>**✨ Personal Portfolio**<br><sub>Modern Interactive Showcase</sub> | • Sleek, hyper-responsive portfolio featuring interactive UI components.<br>• High-performance styling, smooth animations & clean architecture.<br><br>`React` `Tailwind CSS` `Vite` `Framer Motion` `Vercel` | <br><a href="https://portfolio-roan-one-50.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a> |
@@ -96,8 +98,8 @@ const yaswanth = {
 
 <br>
 
-<!-- ================= EXPERIENCE & INTERNSHIPS ================= -->
-## 💼 Professional Experience
+<!-- ================= EXPERIENCE TIMELINE ================= -->
+## 💼 Professional Milestones
 
 ```
 ┌── [Paithacs Software Solutions Pvt. Ltd.] ──────────────────────────────────────┐
@@ -119,7 +121,7 @@ const yaswanth = {
 <br>
 
 <!-- ================= TECH STACK & TOOLBOX ================= -->
-## 🛠️ Tech Arsenal & Skills Matrix
+## 🛠️ Tech Arsenal & Weaponry
 
 <div align="center">
 
@@ -131,7 +133,7 @@ const yaswanth = {
   <br><br>
 
   <!-- Frontend Development -->
-  <p><b>🎨 Frontend & UI Architecture</b></p>
+  <p><b>🎨 Frontend & Reactive UI Architecture</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap,sass,figma" alt="Frontend Tools" />
   </a>
@@ -145,7 +147,7 @@ const yaswanth = {
   <br><br>
 
   <!-- Security, DevOps & Environment -->
-  <p><b>🛡️ Cybersecurity, DevOps & Tooling</b></p>
+  <p><b>🛡️ Cybersecurity, DevOps & System Tooling</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,docker,git,github,postman,vscode,npm,vercel" alt="Security & DevOps" />
   </a>
@@ -155,7 +157,7 @@ const yaswanth = {
 <br>
 
 <!-- ================= GITHUB STATS & ANALYTICS ================= -->
-## 📊 GitHub Analytics & Developer Metrics
+## 📊 GitHub Analytics & Developer Telemetry
 
 <div align="center">
 
@@ -190,16 +192,16 @@ const yaswanth = {
 <br>
 
 <!-- ================= CONNECT & COLLABORATE ================= -->
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
-  <p><b>Whether it's discussing full-stack architecture, cybersecurity research, or collaborating on innovative open-source projects — my inbox is always open!</b></p>
+  <p><b>Always interested in building high-impact full-stack applications, cybersecurity discussions, and ambitious collaborations!</b></p>
 
   <br>
 
   <a href="https://portfolio-roan-one-50.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
@@ -217,7 +219,7 @@ const yaswanth = {
   <br><br>
 
   <!-- ================= FOOTER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <sub><b><i>Built with 💙 by Thanniru Yaswanth • Architect. Secure. Innovate. 🚀</i></b></sub>
 
