@@ -5,7 +5,7 @@
 
   <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full-Stack+Web+%26+Cloud+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+Security+Pioneer;%F0%9F%92%BB+MERN+Stack+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Architecting+Scalable%2C+Interactive+Web+Apps;%F0%9F%8C%99+Dark+Mode+Purist+%26+Clean+Code+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full-Stack+Web+%26+Cloud+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+Network+Defender;%F0%9F%92%BB+MERN+Stack+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Architecting+Scalable%2C+Interactive+Web+Apps;%F0%9F%8C%99+Dark+Mode+Purist+%26+Clean+Code+Architect" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -18,10 +18,6 @@
     &nbsp;
     <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:yash1th2k4@gmail.com">
@@ -40,6 +36,7 @@
     </a>
     <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-0ea5e9?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security-6366f1?style=flat-square&logo=shield&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Parul%20University-B.Tech%20CSE-orange?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education" />
   </p>
 
 </div>
@@ -162,49 +159,23 @@ const yaswanth = {
 
 <div align="center">
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Verified Working Demolab API) -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- Overall Stats & Top Languages -->
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Thanniru-yaswanth03">
-          <img src="https://github-readme-stats.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" width="100%" alt="Yaswanth's GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Thanniru-yaswanth03">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&card_width=380" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- LeetCode Stats Badge -->
-  <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/yash1th2k4?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-
-</div>
-
-<br>
-
-<!-- ================= TROPHIES / ACHIEVEMENTS ================= -->
-<div align="center">
-  <details>
-    <summary><b>🏆 Click to view GitHub Trophies & Milestones</b></summary>
-    <br>
+  <!-- Overall Stats & Top Languages Side-by-Side (Verified Working Fast API) -->
+  <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-profile-trophy.vercel.app/?username=Thanniru-yaswanth03&theme=tokyonight&no-bg=true&no-frame=true&margin_w=15" alt="GitHub Trophies" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
     </a>
-  </details>
+    <a href="https://github.com/Thanniru-yaswanth03">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+    </a>
+  </p>
+
 </div>
 
 <br>
@@ -233,10 +204,6 @@ const yaswanth = {
   &nbsp;
   <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:yash1th2k4@gmail.com">
