@@ -1,24 +1,19 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Hey%20👋,%20I'm%20Thanniru%20Yaswanth!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Builder&descFontSize=19&descAlignY=60" width="100%" alt="Header Banner" />
+  <!-- ================= HEADER BANNER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=240&section=header&text=Thanniru%20Yaswanth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Specialist%20%E2%80%A2%20System%20Builder&descFontSize=19&descAlignY=58" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing SVG -->
+  <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full-Stack+Web+Developer;Cybersecurity+Student+%26+Network+Explorer;MERN+Stack+%26+Python%2FDjango+Engineer;Building+Interactive+%26+Scalable+Apps;Dark+Mode+Purist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full-Stack+Web+%26+Cloud+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+Security+Pioneer;%F0%9F%92%BB+MERN+Stack+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Architecting+Scalable%2C+Interactive+Web+Apps;%F0%9F%8C%99+Dark+Mode+Purist+%26+Clean+Code+Architect" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Visitor Counter -->
-  <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+  <br><br>
 
-  <!-- Badges & Links -->
+  <!-- ================= SOCIAL & QUICK LINKS BADGES ================= -->
   <p align="center">
     <a href="https://portfolio-roan-one-50.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
@@ -26,7 +21,7 @@
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-yash1th2k4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:yash1th2k4@gmail.com">
@@ -38,114 +33,202 @@
     </a>
   </p>
 
+  <!-- ================= PROFILE VIEWS & STATUS ================= -->
+  <p align="center">
+    <a href="https://github.com/Thanniru-yaswanth03">
+      <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-0ea5e9?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security-6366f1?style=flat-square&logo=shield&logoColor=white" alt="Focus" />
+  </p>
+
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
+<!-- ================= ANIMATED GLOWING CODE DIVIDER ================= -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<br>
+
+<!-- ================= ABOUT ME / TERMINAL SECTION ================= -->
+## 👨‍💻 `whoami` & Core Philosophy
 
 ```javascript
+/**
+ * ⚡ System Identity: Yaswanth Thanniru
+ * 🛡️ Cyber Security Specialist & Full-Stack Architect
+ */
 const yaswanth = {
-    name: "Thanniru Yaswanth",
-    education: "B.Tech in CSE (Cyber Security) @ Parul University (2022-2026)",
-    roles: ["Full-Stack Developer", "Cybersecurity Enthusiast", "Software Builder"],
-    portfolio: "https://portfolio-roan-one-50.vercel.app/",
-    leetcode: "https://leetcode.com/u/yash1th2k4/",
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "C++"],
-    techStack: ["React", "Node.js", "Express", "MongoDB", "Django", "Tailwind CSS"],
-    focus: ["Scalable Web Architectures", "System Security", "Interactive UI Engineering"],
-    funFact: "Dark mode isn't a preference. It's a permanent setting. 🌙"
+  name: "Thanniru Yaswanth",
+  academicPath: "B.Tech in CSE (Cyber Security) @ Parul University (2022-2026)",
+  domains: [
+    "Full-Stack Web Architecture (MERN, Next.js, Django)",
+    "Cybersecurity, Network Analysis & System Hardening",
+    "High-Performance Reactive UI/UX Engineering",
+    "RESTful APIs, Database Design & Microservices"
+  ],
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "C++", "SQL", "Bash"],
+  currentlyExploring: ["Advanced Cloud Security", "Scalable Distributed Systems", "AI/ML Integrations"],
+  creed: "Build with precision, design with elegance, and secure by default. 🛡️⚡",
+  funFact: "Dark mode isn't just a UI theme; it's a way of life. 🌙"
 };
 ```
 
-I'm a **Full-Stack Developer** and **Cybersecurity student** at Parul University who loves engineering functional, resilient web applications from the ground up. I combine strong frontend intuition with secure backend workflows, API design, and database optimizations.
+### ⚡ Quick Highlights
+- 🎓 **Undergrad**: B.Tech in Computer Science & Engineering (Specialization: **Cyber Security**) at **Parul University** *(2022 – 2026)*.
+- 💼 **Experience**: Full-Stack Developer Intern at **Paithacs Software Solutions** & Web Dev Intern at **AICTE Oasis Infobyte**.
+- 💡 **Engineering Approach**: Merging fluid, responsive frontend aesthetics with resilient, scalable, and secure backend systems.
+- 🎯 **Goals**: Developing end-to-end applications that solve real-world problems while maintaining strict cybersecurity standards.
 
----
+<br>
 
-### 🚀 Live Projects Showcase
+<!-- ================= FEATURED LIVE PROJECTS SHOWCASE ================= -->
+## 🚀 Featured Live Projects
 
 <div align="center">
 
-| 🌐 Project | 📖 Description | 🛠️ Tech Stack | 🔗 Live & Code |
-| :--- | :--- | :--- | :---: |
-| **ProgressTracker** | A comprehensive full-stack productivity and progress-tracking application that helps users organize tasks, track milestones, and make data-driven decisions. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` | [**Live App ↗**](https://progress-tracker-three-pied.vercel.app/)<br>[**GitHub Repo ↗**](https://github.com/Thanniru-yaswanth03/ProgressTracker) |
-| **Personal Portfolio** | Modern, responsive developer portfolio showcasing interactive UI components, project demos, and technical skills. | `React` `Tailwind CSS` `Vite` `Vercel` | [**Live Site ↗**](https://portfolio-roan-one-50.vercel.app/) |
-| **Drag-n-Drop Workflow** | An interactive drag-and-drop web application featuring dynamic state management, smooth UI interactions, and intuitive task reordering. | `JavaScript` `HTML5 Drag API` `CSS3` `Vercel` | [**Live App ↗**](https://drag-n-drop-lilac.vercel.app/) |
-| **Fake News Detection** | ML-based web application to classify news articles in real time with custom machine learning inference and secure backend integrations. | `Python` `Django` `Machine Learning` `JavaScript` | [**Live Demo ↗**](https://fakenewsdetectionsystem.pythonanywhere.com/) |
+| Project | Highlights & Tech Stack | Live Demo & Source |
+| :--- | :--- | :---: |
+| <br>**📈 ProgressTracker**<br><sub>Full-Stack Productivity Ecosystem</sub> | • Comprehensive task manager, milestone tracking & productivity analytics.<br>• Secure JWT authentication, RESTful APIs & real-time updates.<br><br>`React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` `Vercel` | <br><a href="https://progress-tracker-three-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
+| <br>**✨ Personal Portfolio**<br><sub>Modern Interactive Showcase</sub> | • Sleek, hyper-responsive portfolio featuring interactive UI components.<br>• High-performance styling, smooth animations & clean architecture.<br><br>`React` `Tailwind CSS` `Vite` `Framer Motion` `Vercel` | <br><a href="https://portfolio-roan-one-50.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a> |
+| <br>**🎯 Drag-n-Drop Workflow**<br><sub>Dynamic Kanban & Task Reorder</sub> | • Fluid drag-and-drop workspace with instant visual feedback.<br>• Custom state orchestration, intuitive UX & zero-latency animations.<br><br>`JavaScript` `HTML5 Drag & Drop` `CSS3 Animations` `Vercel` | <br><a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a> |
+| <br>**📰 Fake News Detection**<br><sub>ML-Powered Classifier System</sub> | • Real-time NLP & machine learning model to verify news article credibility.<br>• Integrated Django backend with instant inference and security sanitization.<br><br>`Python` `Django` `Scikit-Learn` `Machine Learning` `JavaScript` | <br><a href="https://fakenewsdetectionsystem.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logo=python&logoColor=white" /></a> |
 
 </div>
 
----
+<br>
 
-### 💼 Experience
+<!-- ================= EXPERIENCE & INTERNSHIPS ================= -->
+## 💼 Professional Experience
 
-- 💼 **Full-Stack Developer Intern** @ *Paithacs Software Solutions Pvt. Ltd.* *(Jan 2026 – Apr 2026)*
-  - Contributed to production web applications, implementing UI components, secure backend APIs, and database handlers.
-- 🌐 **Developer Intern** @ *AICTE Oasis Infobyte* *(Dec 2024 – Jan 2025)*
-  - Developed responsive, cross-browser compatible frontend web interfaces using modern HTML, CSS, and JavaScript.
+```
+┌── [Paithacs Software Solutions Pvt. Ltd.] ──────────────────────────────────────┐
+│  💼 Role: Full-Stack Developer Intern                                           │
+│  📅 Period: Jan 2026 – Apr 2026                                                 │
+│  🛠️ Tech: React, Node.js, Express, MongoDB, RESTful APIs, Tailwind CSS           │
+│  📌 Impact: Architected production web features, built reusable UI components,  │
+│             and implemented secure endpoints with optimized DB handlers.        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+┌── [AICTE Oasis Infobyte] ───────────────────────────────────────────────────────┐
+│  🌐 Role: Web Developer Intern                                                  │
+│  📅 Period: Dec 2024 – Jan 2025                                                 │
+│  🛠️ Tech: Modern JavaScript, HTML5, CSS3, Responsive Web Design                │
+│  📌 Impact: Designed pixel-perfect, cross-browser frontend interfaces and       │
+│             enhanced user interactions with dynamic JS logic.                   │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
 
----
+<br>
 
-### 🛠️ Tech Stack & Toolbox
+<!-- ================= TECH STACK & TOOLBOX ================= -->
+## 🛠️ Tech Arsenal & Skills Matrix
 
 <div align="center">
 
-  <b>Languages & Core</b><br>
+  <!-- Core Languages -->
+  <p><b>💻 Core Programming Languages</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Languages" />
   </a>
   <br><br>
 
-  <b>Frontend Development</b><br>
+  <!-- Frontend Development -->
+  <p><b>🎨 Frontend & UI Architecture</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap,sass,figma" alt="Frontend Tools" />
   </a>
   <br><br>
 
-  <b>Backend, Databases & APIs</b><br>
+  <!-- Backend, Database & Cloud -->
+  <p><b>⚙️ Backend, Databases & Cloud Infrastructure</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,prisma,firebase" alt="Backend & DB" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql,prisma,firebase" alt="Backend & DB" />
   </a>
   <br><br>
 
-  <b>Security, DevOps & Tooling</b><br>
+  <!-- Security, DevOps & Environment -->
+  <p><b>🛡️ Cybersecurity, DevOps & Tooling</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,git,github,docker,postman,vscode,npm" alt="Security & Tools" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,docker,git,github,postman,vscode,npm,vercel" alt="Security & DevOps" />
   </a>
 
 </div>
 
----
+<br>
 
-### 📊 GitHub Analytics & Streak Stats
+<!-- ================= GITHUB STATS & ANALYTICS ================= -->
+## 📊 GitHub Analytics & Developer Metrics
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
+  <!-- Streak Stats -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- GitHub Overall Stats & Most Used Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Overall Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" width="48%" />
-  </p>
+  <!-- Overall Stats & Top Languages -->
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Thanniru-yaswanth03">
+          <img src="https://github-readme-stats.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" width="100%" alt="Yaswanth's GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Thanniru-yaswanth03">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&card_width=380" width="100%" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- LeetCode Stats Badge -->
+  <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/yash1th2k4?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
 
 </div>
 
----
+<br>
 
-### 🤝 Let's Connect & Collaborate
+<!-- ================= TROPHIES / ACHIEVEMENTS ================= -->
+<div align="center">
+  <details>
+    <summary><b>🏆 Click to view GitHub Trophies & Milestones</b></summary>
+    <br>
+    <a href="https://github.com/Thanniru-yaswanth03">
+      <img src="https://github-profile-trophy.vercel.app/?username=Thanniru-yaswanth03&theme=tokyonight&no-bg=true&no-frame=true&margin_w=15" alt="GitHub Trophies" />
+    </a>
+  </details>
+</div>
+
+<br>
+
+<!-- ================= INSPIRING TECH QUOTE ================= -->
+<div align="center">
+  <a href="https://github.com/Thanniru-yaswanth03">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</div>
+
+<br>
+
+<!-- ================= CONNECT & COLLABORATE ================= -->
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-  <p><b>Always open to discussing full-stack development, software engineering, and innovative projects!</b></p>
+  <p><b>Whether it's discussing full-stack architecture, cybersecurity research, or collaborating on innovative open-source projects — my inbox is always open!</b></p>
+
+  <br>
 
   <a href="https://portfolio-roan-one-50.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
@@ -153,7 +236,7 @@ I'm a **Full-Stack Developer** and **Cybersecurity student** at Parul University
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/yash1th2k4/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-yash1th2k4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:yash1th2k4@gmail.com">
@@ -166,8 +249,9 @@ I'm a **Full-Stack Developer** and **Cybersecurity student** at Parul University
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <!-- ================= FOOTER BANNER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,25,45&height=110&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub><b><i>Build. Break. Learn. Repeat. 🚀</i></b></sub>
+  <sub><b><i>Built with 💙 by Thanniru Yaswanth • Architect. Secure. Innovate. 🚀</i></b></sub>
 
 </div>
