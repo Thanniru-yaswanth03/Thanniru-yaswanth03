@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Thanniru%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0284c7,100:6366f1&height=220&section=header&text=Thanniru%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Full-Stack+Software+Engineer+%26+System+Architect;%F0%9F%92%BB+MERN+Stack+%2B+Next.js+%2B+Python%2FDjango+Engineer;%F0%9F%9A%80+Engineering+High-Performance+%26+Scalable+Web+Apps;%F0%9F%94%A5+Crafting+Clean+Architecture+%26+Frictionless+UX;%F0%9F%8C%99+Dark+Mode+Purist+%26+Problem-Solving+Artisan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=%E2%9A%A1+Full-Stack+Software+Engineer+%26+System+Architect;%F0%9F%8F%A2+Creator+of+TMR+Business+Platform+%26+Cloud+Apps;%F0%9F%92%BB+MERN+Stack+%2B+TypeScript+%2B+Next.js+%2B+Python;%F0%9F%9A%80+Engineering+High-Performance+%26+Scalable+Web+Apps;%F0%9F%94%A5+Crafting+Clean+Architecture+%26+Frictionless+UX;%F0%9F%8C%99+Dark+Mode+Purist+%26+Problem-Solving+Artisan" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -38,6 +38,10 @@
     <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
     &nbsp;
     <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Distributed%20Systems-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+    &nbsp;
+    <a href="https://tmr-business-platform.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🔥%20Latest%20Release-TMR%20Platform-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Latest Project" />
+    </a>
   </p>
 
 </div>
@@ -61,15 +65,17 @@
 {
   "name": "Thanniru Yaswanth",
   "alias": "yash1th2k4",
-  "role": "Full-Stack Software Engineer",
+  "role": "Full-Stack Software Engineer & System Architect",
   "education": "B.Tech in CSE @ Parul University (2022-2026)",
   "domains": [
-    "High-Performance Full-Stack Web Architecture (React, Next.js, Node.js, Express, Django)",
-    "Scalable API Engineering, Microservices & Database Design (SQL & NoSQL)",
-    "Modern Reactive UI/UX Engineering & State Management",
-    "Cloud Deployments, CI/CD Workflows & Clean Architecture"
+    "High-Performance Full-Stack Web Architecture (React 18, TypeScript, Node.js, Express, Next.js, Django)",
+    "Scalable API Engineering, Microservices & Database Design (MongoDB, PostgreSQL, MySQL)",
+    "Enterprise Commercial Workspaces & Single-Operator CRM Platforms",
+    "Modern Reactive UI/UX Engineering, Design Systems & State Management",
+    "Cloud Deployments (Vercel, Render), CI/CD Workflows & Clean Architecture"
   ],
-  "languages": ["JavaScript", "TypeScript", "Python", "Java", "C", "C++", "SQL", "Bash"],
+  "languages": ["JavaScript (ES6+)", "TypeScript", "Python", "Java", "C", "C++", "SQL", "Bash"],
+  "latestRelease": "TMR Real Estate & RTO Services Platform (Full-Stack Commercial Suite)",
   "philosophy": "Write code so clean it reads like poetry; build architectures so resilient they scale effortlessly.",
   "funFact": "Dark mode isn't just a theme — it's an engineering standard. 🌙⚡"
 }
@@ -88,12 +94,13 @@
 
 <div align="center">
 
-| Project | Architecture & Engineering Highlights | Live Demo & Source |
+| Project & Domain | Architecture & Engineering Highlights | Live Demo & Source |
 | :--- | :--- | :---: |
-| <br>**📈 ProgressTracker**<br><sub>Full-Stack Productivity Ecosystem</sub> | • Full-featured task orchestration, sprint tracking, and analytics dashboards.<br>• Secure JWT authentication, RESTful APIs, optimized MongoDB schemas & real-time updates.<br><br>`React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` `Vercel` | <br><a href="https://progress-tracker-three-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| <br>**✨ Interactive Portfolio**<br><sub>Modern Reactive Developer Showcase</sub> | • Blazing-fast portfolio built with modern frontend paradigms.<br>• Custom animations, mobile-first responsive design & clean modular code.<br><br>`React` `Tailwind CSS` `Vite` `Framer Motion` `Vercel` | <br><a href="https://portfolio-roan-one-50.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" /></a> |
-| <br>**🎯 Drag-n-Drop Workflow**<br><sub>Dynamic Kanban Engine</sub> | • Zero-latency drag-and-drop workspace with instant visual reordering.<br>• Complex UI state orchestration and fluid HTML5 drag event lifecycles.<br><br>`JavaScript` `HTML5 Drag & Drop` `CSS3 Animations` `Vercel` | <br><a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a> |
-| <br>**📰 AI News Detection System**<br><sub>NLP & ML Classification Platform</sub> | • End-to-end machine learning platform predicting credibility in real time.<br>• Built with a high-throughput Django backend, feature extraction & Scikit-Learn models.<br><br>`Python` `Django` `Scikit-Learn` `NLP` `Machine Learning` `JavaScript` | <br><a href="https://fakenewsdetectionsystem.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logo=python&logoColor=white" /></a> |
+| <br>**🏢 TMR Business Platform**<br><sub>Enterprise Commercial & Operations Suite</sub><br><br><img src="https://img.shields.io/badge/⭐%20FLAGSHIP%20PROJECT-10b981?style=flat-square&logo=star&logoColor=white" alt="Flagship Project" /> | • Full-stack commercial platform combining Hyderabad real estate brokerage with TS/AP RTO documentation consultancy.<br>• Dual client & single-operator architecture: smart WhatsApp lead dispatch, Zod-validated enquiries & private administrative operations portal.<br>• Secure token-based session auth, MongoDB indexing, rate-limiting, and 100% mobile-responsive design.<br><br>`React 18` `Node.js` `Express` `MongoDB Atlas` `TypeScript` `Tailwind CSS` `JWT Auth` `Vercel` `Render` | <br><a href="https://tmr-business-platform.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**📈 ProgressTracker**<br><sub>Full-Stack Productivity & Sprint Workspace</sub> | • Full-featured task orchestration, sprint tracking, and analytics dashboards.<br>• Secure JWT authentication, RESTful APIs, optimized MongoDB schemas & real-time updates.<br><br>`React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` `Vercel` | <br><a href="https://progress-tracker-three-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**✨ Interactive Portfolio**<br><sub>Modern Reactive Developer Showcase</sub> | • Blazing-fast portfolio built with modern frontend paradigms.<br>• Custom animations, mobile-first responsive design & clean modular code.<br><br>`React` `Tailwind CSS` `Vite` `Framer Motion` `Vercel` | <br><a href="https://portfolio-roan-one-50.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live Site" /></a> |
+| <br>**🎯 Drag-n-Drop Workflow**<br><sub>Dynamic Kanban Engine</sub> | • Zero-latency drag-and-drop workspace with instant visual reordering.<br>• Complex UI state orchestration and fluid HTML5 drag event lifecycles.<br><br>`JavaScript` `HTML5 Drag & Drop` `CSS3 Animations` `Vercel` | <br><a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a> |
+| <br>**📰 AI News Detection System**<br><sub>NLP & ML Classification Platform</sub> | • End-to-end machine learning platform predicting credibility in real time.<br>• Built with a high-throughput Django backend, feature extraction & Scikit-Learn models.<br><br>`Python` `Django` `Scikit-Learn` `NLP` `Machine Learning` `JavaScript` | <br><a href="https://fakenewsdetectionsystem.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Live Demo" /></a> |
 
 </div>
 
@@ -132,7 +139,7 @@
   <!-- Core Languages -->
   <p><b>💻 Core Programming Languages</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,html,css" alt="Languages" />
   </a>
   <br><br>
 
@@ -214,7 +221,7 @@
   <br><br>
 
   <!-- ================= FOOTER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0284c7,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <sub><b><i>Built with 💙 by Thanniru Yaswanth • Architect. Build. Scale. 🚀</i></b></sub>
 
