@@ -64,7 +64,7 @@
 ```json
 {
   "name": "YASH",
-  "alias": "yash1th2k4",
+  "alias": "Goat",
   "role": "Full-Stack Software Engineer & System Architect",
   "education": "B.Tech in CSE @ Parul University (2022-2026)",
   "domains": [
