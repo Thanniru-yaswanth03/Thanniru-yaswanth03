@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0284c7,100:6366f1&height=220&section=header&text=YASH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,65:0284c7,100:6366f1&height=220&section=header&text=YASH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- ================= ANIMATED TYPING SVG ================= -->
   <a href="https://github.com/Thanniru-yaswanth03">
@@ -18,6 +18,10 @@
     &nbsp;
     <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://t.me/RecallMemoryBot" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;
     <a href="mailto:yash1th2k4@gmail.com">
@@ -94,6 +98,18 @@
 ## 🚀 Featured Production Projects
 
 <div align="center">
+
+  <!-- Pinned Flagship Repositories -->
+  <p align="center">
+    <a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot" target="_blank">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=RecallMemoryBot&theme=tokyonight&hide_border=true&border_radius=10" alt="RecallMemoryBot" width="49%" />
+    </a>
+    <a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform" target="_blank">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=TMR-Business-Platform&theme=tokyonight&hide_border=true&border_radius=10" alt="TMR-Business-Platform" width="49%" />
+    </a>
+  </p>
+
+  <br>
 
 | Project & Domain | Architecture & Engineering Highlights | Live Demo & Source |
 | :--- | :--- | :---: |
@@ -174,21 +190,30 @@
 
 <div align="center">
 
-  <!-- Streak Stats (Demolab API) -->
-  <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://streak-stats.demolab.com?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&card_width=750" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <!-- Overall Stats & Top Languages Side-by-Side (Fast API) -->
+  <!-- Streak Stats (High-Speed Reliable Endpoint) -->
   <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+      <img src="https://streak-stats.vercel.app/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Overall Stats & Top Languages Side-by-Side -->
+  <p align="center">
+    <a href="https://github.com/Thanniru-yaswanth03">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" />
     </a>
     <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" />
     </a>
+  </p>
+
+  <br>
+
+  <!-- Dynamic Engineering Quote -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Engineering Quote" />
   </p>
 
 </div>
@@ -212,6 +237,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://t.me/RecallMemoryBot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
   <a href="mailto:yash1th2k4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -223,7 +252,7 @@
   <br><br>
 
   <!-- ================= FOOTER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0284c7,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,65:0284c7,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <sub><b><i>Built with 💙 by YASH • Architect. Build. Scale. 🚀</i></b></sub>
 
