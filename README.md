@@ -116,35 +116,100 @@
 <!-- ================= FEATURED LIVE PROJECTS SHOWCASE ================= -->
 ## 🚀 Featured Production Projects
 
-<div align="center">
+<!-- Clean, High-Contrast Project Showcase Cards (100% Uptime • Never Broken) -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/FileMind">🗄️ FileMind</a></h3>
+      <p>High-performance Windows desktop storage intelligence utility, deterministic safety engine & offline Jarvis Copilot.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust_2021-DEA584?style=flat-square&logo=rust&logoColor=black" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/v0.2.0-Public_Beta-orange?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Thanniru-yaswanth03/FileMind/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release%20Notes-DEA584?style=for-the-badge&logo=rust&logoColor=black" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/FileMind"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/N1">⚡ N1 Ecosystem</a></h3>
+      <p>Privacy-first ephemeral file drops (up to 50MB), encrypted text sharing, competitive duels & real-time collaborative canvases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15.5-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zero_Accounts-7928CA?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://n1-pi-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20App-7928CA?style=for-the-badge&logo=vercel&logoColor=white" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/N1"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker">📈 ProgressTracker</a></h3>
+      <p>Grounded AI personal productivity command center, deterministic streak engine & enterprise multi-tenant DLP safeguard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter_AI-38BDF8?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://progress-tracker-yash-529d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20App-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/ProgressTracker"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot">🧠 RecallMemoryBot</a></h3>
+      <p>Autonomous Telegram AI conversational memory engine with pgvector HNSW indexing, Claude 3 & diagnostics console.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL_pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://t.me/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Bot-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/Drag-N-Drop">🗂️ Drag N Drop (Kanban Pro)</a></h3>
+      <p>Enterprise multi-project Kanban studio, dual PostgreSQL/SQLite WAL persistence, real-time WebSockets & multi-model AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/@dnd--kit-6366F1?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/Drag-N-Drop"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform">🏢 TMR Business Platform</a></h3>
+      <p>Full-stack commercial real estate brokerage & transport documentation platform with single-operator CRM portal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js_20+-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://tmr-business-platform.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-10B981?style=for-the-badge&logo=vercel&logoColor=white" height="22" /></a>
+        <a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="22" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Pinned Flagship Repositories Grid -->
-  <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03/FileMind" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=FileMind&theme=tokyonight&hide_border=true&border_radius=10" alt="FileMind" width="49%" />
-    </a>
-    <a href="https://github.com/Thanniru-yaswanth03/N1" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=N1&theme=tokyonight&hide_border=true&border_radius=10" alt="N1" width="49%" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=ProgressTracker&theme=tokyonight&hide_border=true&border_radius=10" alt="ProgressTracker" width="49%" />
-    </a>
-    <a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=RecallMemoryBot&theme=tokyonight&hide_border=true&border_radius=10" alt="RecallMemoryBot" width="49%" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03/Drag-N-Drop" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=Drag-N-Drop&theme=tokyonight&hide_border=true&border_radius=10" alt="Drag-N-Drop" width="49%" />
-    </a>
-    <a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanniru-yaswanth03&repo=TMR-Business-Platform&theme=tokyonight&hide_border=true&border_radius=10" alt="TMR-Business-Platform" width="49%" />
-    </a>
-  </p>
-
-  <br>
+<br>
 
 | Project & Domain | Architecture & Engineering Highlights | Live Demo & Source |
 | :--- | :--- | :---: |
@@ -231,18 +296,6 @@
   <p align="center">
     <a href="https://github.com/Thanniru-yaswanth03">
       <img src="https://streak-stats.vercel.app/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-    </a>
-  </p>
-
-  <br>
-
-  <!-- Overall Stats & Top Languages Side-by-Side (Official Reliable Endpoints) -->
-  <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-readme-stats.vercel.app/api?username=Thanniru-yaswanth03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" />
-    </a>
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanniru-yaswanth03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" />
     </a>
   </p>
 
