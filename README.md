@@ -1,69 +1,47 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,65:0284c7,100:6366f1&height=220&section=header&text=YASH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Product%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
-
-  <!-- ================= ANIMATED TYPING SVG ================= -->
-  <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%E2%9A%A1+Full-Stack+Software+Engineer+%26+Product+Architect;%F0%9F%94%A5+Creator+of+StreakForge+V4.0+(Next.js+%2B+Chrome+MV3+%2B+Git+Sync);%F0%9F%97%A3%EF%B8%8F+Creator+of+Yo+Siri+(AI+Voice+%26+Interview+Coach+%E2%80%A2+Next.js+16);%F0%9F%9A%80+Creator+of+N1%2C+ProgressTracker%2C+Drag-N-Drop+%26+RecallMemoryBot;%F0%9F%A4%96+Grounded+AI+Copilots+%E2%80%A2+pgvector+%26+Multi-Model+Failover;%F0%9F%9B%A1%EF%B8%8F+Zero-Fabrication+Sync+Engines+%26+Deterministic+Data+Safety;%F0%9F%8C%99+Dark+Mode+Purist+%26+Problem-Solving+Artisan" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,65:0284c7,100:6366f1&height=220&section=header&text=YASH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20%2B%20Product%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br><br>
 
+  <!-- ================= ANIMATED TYPING SVG ================= -->
+  <p align="center">
+    <a href="https://github.com/Thanniru-yaswanth03"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full-Stack+Engineer+%26+AI+Product+Architect;%F0%9F%94%A5+Creator+of+StreakForge+V4.0+%26+Chrome+MV3;%F0%9F%97%A3%EF%B8%8F+Creator+of+Yo+Siri+(AI+Voice+Coach);%F0%9F%9A%80+Creator+of+N1%2C+ProgressTracker+%26+Drag-N-Drop;%F0%9F%A7%A0+RecallMemoryBot+%E2%80%A2+Java+21+%26+pgvector+HNSW;%F0%9F%9B%A1%EF%B8%8F+Zero-Fabrication+Sync+%26+Deterministic+Safety;%F0%9F%8C%99+Dark+Mode+Purist+%26+Problem-Solving+Artisan" alt="Typing SVG" /></a>
+  </p>
+
+  <br>
+
   <!-- ================= SOCIAL & LIVE PRODUCT LINKS ================= -->
   <p align="center">
-    <a href="https://streak-forge-six.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Flagship-StreakForge%20V4.0-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="StreakForge V4.0" />
-    </a>
+    <a href="https://streak-forge-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Flagship-StreakForge%20V4.0-238636?style=for-the-badge&logo=githubactions&logoColor=white" alt="StreakForge V4.0" /></a>
     &nbsp;
-    <a href="https://portfolio-yash-529d.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
-    </a>
+    <a href="https://portfolio-yash-529d.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
     &nbsp;
-    <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="https://n1-pi-eight.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/%E2%9A%A1%20Platform-N1%20Ecosystem-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="N1 Platform" />
-    </a>
+    <a href="https://n1-pi-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Platform-N1%20Ecosystem-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="N1 Platform" /></a>
     &nbsp;
-    <a href="https://progress-tracker-yash-529d.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%93%88%20AI%20App-ProgressTracker-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" alt="ProgressTracker" />
-    </a>
+    <a href="https://progress-tracker-yash-529d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/AI%20App-ProgressTracker-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" alt="ProgressTracker" /></a>
     &nbsp;
-    <a href="https://drag-n-drop-lilac.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20App-Kanban%20Pro-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Kanban Pro" />
-    </a>
+    <a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/App-Kanban%20Pro-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Kanban Pro" /></a>
     &nbsp;
-    <a href="https://t.me/RecallMemoryBot" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
+    <a href="https://t.me/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     &nbsp;
-    <a href="mailto:yash1th2k4@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
+    <a href="mailto:yash1th2k4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
   <!-- ================= PROFILE VIEWS, GITHUB TELEMETRY & STATUS ================= -->
   <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03"><img src="https://komarev.com/ghpvc/?username=Thanniru-yaswanth03&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" /></a>
     &nbsp;
-    <a href="https://github.com/Thanniru-yaswanth03?tab=followers">
-      <img src="https://img.shields.io/github/followers/Thanniru-yaswanth03?label=Followers&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03?tab=followers"><img src="https://img.shields.io/github/followers/Thanniru-yaswanth03?label=Followers&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" /></a>
     &nbsp;
-    <a href="https://github.com/Thanniru-yaswanth03?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Thanniru-yaswanth03?affiliations=OWNER&style=for-the-badge&color=eab308&logo=github&logoColor=white" alt="Total Stars" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03?tab=repositories"><img src="https://img.shields.io/github/stars/Thanniru-yaswanth03?affiliations=OWNER&style=for-the-badge&color=eab308&logo=github&logoColor=white" alt="Total Stars" /></a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" alt="Status" />
     &nbsp;
-    <a href="https://github.com/Thanniru-yaswanth03/StreakForge" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Active%20Build-StreakForge%20V4.0-238636?style=for-the-badge&logo=githubactions&logoColor=white" alt="StreakForge V4.0" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03/StreakForge" target="_blank"><img src="https://img.shields.io/badge/Active%20Build-StreakForge%20V4.0-238636?style=for-the-badge&logo=github&logoColor=white" alt="StreakForge V4.0" /></a>
   </p>
 
 </div>
@@ -218,13 +196,13 @@
 
 | Project & Domain | Architecture & Engineering Highlights | Live Demo & Source |
 | :--- | :--- | :---: |
-| <br>**🔥 StreakForge V4.0**<br><sub>Coding Consistency, GitHub Sync &amp; Technical Interview Ecosystem</sub><br><br><img src="https://img.shields.io/badge/%F0%9F%94%A5%20LATEST%20FLAGSHIP-238636?style=flat-square&logo=githubactions&logoColor=white" alt="Latest Flagship" /> | • **Monorepo &amp; Multi-Surface Sync**: pnpm workspace uniting a Next.js 15 / React 19 web dashboard (`21` modular views), Express 4 REST API, Manifest V3 Chrome extension, and local Desktop Companion daemon.<br>• **Chrome MV3 + Authoritative LeetCode Enrichment**: Cross-world Monaco editor bridge + GraphQL `submissionDetails` enrichment captures genuine submitted code (preventing problem-statement leaks), runs persistent retry queues, and dispatches native notifications.<br>• **Atomic Verified GitHub Exporter**: Flexible folder/filename patterns (`Easy/0001-two-sum/`), Octokit commit SHA verification (`repos.getCommit`), AES-256-GCM encrypted token vault, sliding JWT refresh, and auto-delimiters (`STREAKFORGE:START/END`) for README cataloging.<br>• **Interview &amp; DSA Mastery Suite**: Timed Mock Interview Arena, SuperMemo-2 SRS Revision Queue (`Blind 75` / `NeetCode 150`), 16-Pattern Explorer, Knowledge Vault, Live SVG Badges &amp; **139 automated tests passing**.<br><br>`TypeScript 5.7` `Next.js 15` `React 19` `Express 4.21` `MongoDB Atlas` `Octokit REST` `Chrome MV3` `Zod` `Vitest` `Vercel` `Render` | <br><a href="https://streak-forge-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br><a href="https://streakforge-api-5uhs.onrender.com/health" target="_blank"><img src="https://img.shields.io/badge/API%20Health-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="API Health" /></a><br><a href="https://github.com/Thanniru-yaswanth03/StreakForge" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**🗣️ Yo Siri — AI Voice &amp; Spoken Coach**<br><sub>Voice-First Personal AI Assistant &amp; Communication Trainer</sub><br><br><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F%20RECENT%20AI%20BUILD-0EA5E9?style=flat-square&logo=next.js&logoColor=white" alt="Recent AI Build" /> | • **Structured Practice Modules**: Dedicated Next.js 16 App Router modules covering live voice conversations (`/conversation`), spoken English grammar &amp; fluency (`/english-lab`), technical mock interviews (`/interview`), interactive roleplay (`/roleplay`), and daily challenges.<br>• **Dedicated AI Route Handlers**: Modular backend `/api/ai/*` endpoints (`chat`, `english-lab`, `interview`, `roleplay`, `health`) built with React 19.3, TypeScript, and Tailwind CSS v4.<br><br>`Next.js 16.4` `React 19.3` `TypeScript 5` `Tailwind CSS v4` | <br><a href="https://github.com/Thanniru-yaswanth03/Yo_siri" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**⚡ N1 Ecosystem**<br><sub>Privacy-First Temporary Sharing &amp; Anonymous Productivity Platform</sub><br><br><img src="https://img.shields.io/badge/%F0%9F%94%A5%20FLAGSHIP%20PLATFORM-7928CA?style=flat-square&logo=vercel&logoColor=white" alt="Flagship Platform" /> | • **Zero Accounts &amp; True Anonymity**: No email signups, no tracking cookies, and zero permanent retention. Visitors create and consume immediately.<br>• **Ephemeral Drop Engine**: Self-destructing file drops (up to 50MB/file, 200MB/batch) &amp; encrypted text sharing protected by Argon2id + pepper hashing, magic-byte binary verification, cryptographic owner deletion tokens, and automated TTL background purge worker.<br>• **Real-Time Collaboration &amp; 30+ Local Utilities**: Collaborative whiteboard canvases and 1v1 duels via native `ws` WebSockets alongside in-browser Canvas/Web Crypto tools (**273 automated tests**).<br><br>`TypeScript 5.8` `Next.js 15.5` `React 19` `Node.js 22` `Express 4.21` `MongoDB Atlas` `WebSockets` `Argon2id` `Zod` `Vercel` `Render` | <br><a href="https://n1-pi-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/N1" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**📈 ProgressTracker**<br><sub>Intelligent Personal Productivity Command Center &amp; Grounded AI Assistant</sub><br><br><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20REASONING%20%2F%20NEXT.JS%2016-38BDF8?style=flat-square&logo=next.js&logoColor=white" alt="AI Reasoning" /> | • **Grounded AI Progress Assistant (`Ctrl+J` / `Cmd+J`)**: Reasons directly over live MongoDB records (overdue tasks, deadlines, habit consistency, streaks, goals, focus minutes) to deliver prioritized schedules via OpenRouter.<br>• **Deterministic Habit &amp; Goal Engines**: Pure streak state machine tracking grace periods, 7-day rolling visualizations, custom goal milestones, and deep-focus session timers.<br>• **Enterprise DLP &amp; Multi-Tenant Security**: Auth.js v5 with bcrypt, strict `userId` query scoping, and global Mongoose deletion safeguards (`mongooseSafetyPlugin.ts`).<br><br>`TypeScript 5.8` `Next.js 16` `React 19` `Tailwind CSS v4` `MongoDB Atlas` `Mongoose` `Auth.js v5` `OpenRouter AI` `Zod` `Vercel` | <br><a href="https://progress-tracker-yash-529d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**🧠 RecallMemoryBot**<br><sub>Autonomous Telegram AI Conversational Memory Engine</sub><br><br><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20VECTOR%20DB-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="AI Vector Engine" /> | • **Autonomous Group Memory**: Privacy-first Telegram bot capturing group context and indexing explicit decisions (`/remember`).<br>• **Asynchronous Vector Pipeline**: `text-embedding-3-small` (1536d) + hybrid semantic Q&amp;A (`/ask`, `/recall`) powered by Claude 3 Haiku and PostgreSQL `pgvector` HNSW indexing.<br>• **Anti-Hallucination Citations**: Enforces strict source verification against message IDs (`[Msg #ID]`) plus an admin diagnostics web console.<br><br>`Java 21` `Spring Boot 3.3` `PostgreSQL` `pgvector` `OpenRouter` `Claude 3` `Docker` `Telegram API` `Render` `Neon` | <br><a href="https://t.me/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/Live%20Telegram%20Bot-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Live Telegram Bot" /></a><br><a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**🗂️ Drag N Drop (Kanban Studio Pro)**<br><sub>Enterprise Multi-Project Kanban Engine &amp; AI Copilot</sub><br><br><img src="https://img.shields.io/badge/%E2%9A%A1%20FULL--STACK%20ARCHITECTURE-6366F1?style=flat-square&logo=react&logoColor=white" alt="Full-Stack Kanban" /> | • **Fluid Kanban Workflow**: Accessible `@dnd-kit` drag-and-drop across columns with touch-sensor debouncing and multi-level undo/redo (`Ctrl+Z`).<br>• **Dual-Engine Persistence &amp; Real-Time WS**: Managed PostgreSQL (`psycopg-pool`) with SQLite WAL fallback + live room sync (`/ws/projects/{id}`) and multi-model AI failover (`GPT-4o-mini` ➔ `Llama 3.3 70B` ➔ Local NLP).<br>• **RBAC &amp; Test Coverage**: Role permissions (`owner`/`admin`/`member`/`viewer`), PBKDF2 auth, and **106 automated tests** (Vitest, Playwright, Pytest).<br><br>`Next.js 16` `React 19` `TypeScript` `Python 3.13` `FastAPI` `PostgreSQL` `SQLite WAL` `WebSockets` `Docker` `Vercel` `Render` | <br><a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br><a href="https://github.com/Thanniru-yaswanth03/Drag-N-Drop" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
-| <br>**🏢 TMR Business Platform**<br><sub>Enterprise Dual-Vertical Commercial &amp; CRM Operations Suite</sub><br><br><img src="https://img.shields.io/badge/%E2%AD%90%20COMMERCIAL%20FLAGSHIP-10B981?style=flat-square&logo=star&logoColor=white" alt="Commercial Flagship" /> | • **Dual Commercial Operations**: Real estate brokerage &amp; TS/AP RTO transport documentation platform with WhatsApp lead funnels and Zod-validated enquiries.<br>• **Single-Operator CRM Portal (`/admin`)**: Full-text lead search, status lifecycle progression (`NEW` ➔ `CONTACTED` ➔ `CLOSED`), Bcrypt auth, server-side revocation &amp; 35 security tests.<br><br>`React 18` `Vite 6` `TypeScript` `Node.js 20+` `Express` `MongoDB Atlas` `Tailwind CSS` `JWT Auth` `Zod` | <br><a href="https://tmr-business-platform.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**🔥 StreakForge V4.0**<br><sub>Coding Consistency, GitHub Sync &amp; Technical Interview Ecosystem</sub><br><br><img src="https://img.shields.io/badge/LATEST%20FLAGSHIP-238636?style=flat-square&logo=githubactions&logoColor=white" alt="Latest Flagship" /> | • **Monorepo &amp; Multi-Surface Sync**: pnpm workspace uniting a Next.js 15 / React 19 web dashboard (`21` modular views), Express 4 REST API, Manifest V3 Chrome extension, and local Desktop Companion daemon.<br>• **Chrome MV3 + Authoritative LeetCode Enrichment**: Cross-world Monaco editor bridge + GraphQL `submissionDetails` enrichment captures genuine submitted code (preventing problem-statement leaks), runs persistent retry queues, and dispatches native notifications.<br>• **Atomic Verified GitHub Exporter**: Flexible folder/filename patterns (`Easy/0001-two-sum/`), Octokit commit SHA verification (`repos.getCommit`), AES-256-GCM encrypted token vault, sliding JWT refresh, and auto-delimiters (`STREAKFORGE:START/END`) for README cataloging.<br>• **Interview &amp; DSA Mastery Suite**: Timed Mock Interview Arena, SuperMemo-2 SRS Revision Queue (`Blind 75` / `NeetCode 150`), 16-Pattern Explorer, Knowledge Vault, Live SVG Badges &amp; **139 automated tests passing**.<br><br>`TypeScript 5.7` `Next.js 15` `React 19` `Express 4.21` `MongoDB Atlas` `Octokit REST` `Chrome MV3` `Zod` `Vitest` `Vercel` `Render` | <br><a href="https://streak-forge-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br><a href="https://streakforge-api-5uhs.onrender.com/health" target="_blank"><img src="https://img.shields.io/badge/API%20Health-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="API Health" /></a><br><a href="https://github.com/Thanniru-yaswanth03/StreakForge" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**🗣️ Yo Siri — AI Voice &amp; Spoken Coach**<br><sub>Voice-First Personal AI Assistant &amp; Communication Trainer</sub><br><br><img src="https://img.shields.io/badge/RECENT%20AI%20BUILD-0EA5E9?style=flat-square&logo=next.js&logoColor=white" alt="Recent AI Build" /> | • **Structured Practice Modules**: Dedicated Next.js 16 App Router modules covering live voice conversations (`/conversation`), spoken English grammar &amp; fluency (`/english-lab`), technical mock interviews (`/interview`), interactive roleplay (`/roleplay`), and daily challenges.<br>• **Dedicated AI Route Handlers**: Modular backend `/api/ai/*` endpoints (`chat`, `english-lab`, `interview`, `roleplay`, `health`) built with React 19.3, TypeScript, and Tailwind CSS v4.<br><br>`Next.js 16.4` `React 19.3` `TypeScript 5` `Tailwind CSS v4` | <br><a href="https://github.com/Thanniru-yaswanth03/Yo_siri" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**⚡ N1 Ecosystem**<br><sub>Privacy-First Temporary Sharing &amp; Anonymous Productivity Platform</sub><br><br><img src="https://img.shields.io/badge/FLAGSHIP%20PLATFORM-7928CA?style=flat-square&logo=vercel&logoColor=white" alt="Flagship Platform" /> | • **Zero Accounts &amp; True Anonymity**: No email signups, no tracking cookies, and zero permanent retention. Visitors create and consume immediately.<br>• **Ephemeral Drop Engine**: Self-destructing file drops (up to 50MB/file, 200MB/batch) &amp; encrypted text sharing protected by Argon2id + pepper hashing, magic-byte binary verification, cryptographic owner deletion tokens, and automated TTL background purge worker.<br>• **Real-Time Collaboration &amp; 30+ Local Utilities**: Collaborative whiteboard canvases and 1v1 duels via native `ws` WebSockets alongside in-browser Canvas/Web Crypto tools (**273 automated tests**).<br><br>`TypeScript 5.8` `Next.js 15.5` `React 19` `Node.js 22` `Express 4.21` `MongoDB Atlas` `WebSockets` `Argon2id` `Zod` `Vercel` `Render` | <br><a href="https://n1-pi-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/N1" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**📈 ProgressTracker**<br><sub>Intelligent Personal Productivity Command Center &amp; Grounded AI Assistant</sub><br><br><img src="https://img.shields.io/badge/AI%20REASONING%20%2F%20NEXT.JS%2016-38BDF8?style=flat-square&logo=next.js&logoColor=white" alt="AI Reasoning" /> | • **Grounded AI Progress Assistant (`Ctrl+J` / `Cmd+J`)**: Reasons directly over live MongoDB records (overdue tasks, deadlines, habit consistency, streaks, goals, focus minutes) to deliver prioritized schedules via OpenRouter.<br>• **Deterministic Habit &amp; Goal Engines**: Pure streak state machine tracking grace periods, 7-day rolling visualizations, custom goal milestones, and deep-focus session timers.<br>• **Enterprise DLP &amp; Multi-Tenant Security**: Auth.js v5 with bcrypt, strict `userId` query scoping, and global Mongoose deletion safeguards (`mongooseSafetyPlugin.ts`).<br><br>`TypeScript 5.8` `Next.js 16` `React 19` `Tailwind CSS v4` `MongoDB Atlas` `Mongoose` `Auth.js v5` `OpenRouter AI` `Zod` `Vercel` | <br><a href="https://progress-tracker-yash-529d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/ProgressTracker" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**🧠 RecallMemoryBot**<br><sub>Autonomous Telegram AI Conversational Memory Engine</sub><br><br><img src="https://img.shields.io/badge/AI%20%2F%20VECTOR%20DB-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="AI Vector Engine" /> | • **Autonomous Group Memory**: Privacy-first Telegram bot capturing group context and indexing explicit decisions (`/remember`).<br>• **Asynchronous Vector Pipeline**: `text-embedding-3-small` (1536d) + hybrid semantic Q&amp;A (`/ask`, `/recall`) powered by Claude 3 Haiku and PostgreSQL `pgvector` HNSW indexing.<br>• **Anti-Hallucination Citations**: Enforces strict source verification against message IDs (`[Msg #ID]`) plus an admin diagnostics web console.<br><br>`Java 21` `Spring Boot 3.3` `PostgreSQL` `pgvector` `OpenRouter` `Claude 3` `Docker` `Telegram API` `Render` `Neon` | <br><a href="https://t.me/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/Live%20Telegram%20Bot-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Live Telegram Bot" /></a><br><a href="https://github.com/Thanniru-yaswanth03/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**🗂️ Drag N Drop (Kanban Studio Pro)**<br><sub>Enterprise Multi-Project Kanban Engine &amp; AI Copilot</sub><br><br><img src="https://img.shields.io/badge/FULL--STACK%20ARCHITECTURE-6366F1?style=flat-square&logo=react&logoColor=white" alt="Full-Stack Kanban" /> | • **Fluid Kanban Workflow**: Accessible `@dnd-kit` drag-and-drop across columns with touch-sensor debouncing and multi-level undo/redo (`Ctrl+Z`).<br>• **Dual-Engine Persistence &amp; Real-Time WS**: Managed PostgreSQL (`psycopg-pool`) with SQLite WAL fallback + live room sync (`/ws/projects/{id}`) and multi-model AI failover (`GPT-4o-mini` ➔ `Llama 3.3 70B` ➔ Local NLP).<br>• **RBAC &amp; Test Coverage**: Role permissions (`owner`/`admin`/`member`/`viewer`), PBKDF2 auth, and **106 automated tests** (Vitest, Playwright, Pytest).<br><br>`Next.js 16` `React 19` `TypeScript` `Python 3.13` `FastAPI` `PostgreSQL` `SQLite WAL` `WebSockets` `Docker` `Vercel` `Render` | <br><a href="https://drag-n-drop-lilac.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br><a href="https://github.com/Thanniru-yaswanth03/Drag-N-Drop" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
+| <br>**🏢 TMR Business Platform**<br><sub>Enterprise Dual-Vertical Commercial &amp; CRM Operations Suite</sub><br><br><img src="https://img.shields.io/badge/COMMERCIAL%20FLAGSHIP-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Commercial Flagship" /> | • **Dual Commercial Operations**: Real estate brokerage &amp; TS/AP RTO transport documentation platform with WhatsApp lead funnels and Zod-validated enquiries.<br>• **Single-Operator CRM Portal (`/admin`)**: Full-text lead search, status lifecycle progression (`NEW` ➔ `CONTACTED` ➔ `CLOSED`), Bcrypt auth, server-side revocation &amp; 35 security tests.<br><br>`React 18` `Vite 6` `TypeScript` `Node.js 20+` `Express` `MongoDB Atlas` `Tailwind CSS` `JWT Auth` `Zod` | <br><a href="https://tmr-business-platform.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a><br><a href="https://github.com/Thanniru-yaswanth03/TMR-Business-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a> |
 | <br>**💻 Continuous DSA &amp; Portfolio Systems**<br><sub>Automated LeetCode Vaults, Interactive CLI Portfolio &amp; NLP News Classifier</sub> | • **LeetCode Consistency Archives**: [`LeetCodeHustle`](https://github.com/Thanniru-yaswanth03/LeetCodeHustle) (auto-synced in real time via StreakForge V4.0) &amp; [`LeetCode91`](https://github.com/Thanniru-yaswanth03/LeetCode91) (91 Days of Java DSA).<br>• **Interactive Developer Portfolio**: Next.js 16 showcase featuring a CLI terminal (`help`, `projects`, `skills`) &amp; OpenRouter digital twin.<br>• **AI News Detection System**: Scikit-Learn + TF-IDF linguistic classification engine served via Django.<br><br>`Next.js 16` `Java` `Python` `Django` `Scikit-Learn` `TF-IDF` | <br><a href="https://portfolio-yash-529d.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a><br><a href="https://github.com/Thanniru-yaswanth03/LeetCodeHustle" target="_blank"><img src="https://img.shields.io/badge/LeetCode%20Vault-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Vault" /></a><br><a href="https://fakenewsdetectionsystem.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/NLP%20Demo-10B981?style=for-the-badge&logo=python&logoColor=white" alt="NLP Demo" /></a> |
 
 <br>
@@ -261,37 +239,29 @@
 
   <!-- Core Languages -->
   <p><b>💻 Core Programming Languages</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp,c,html,css" alt="Languages" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp,c,html,css" alt="Languages" /></a>
   <br><br>
 
   <!-- Frontend Development -->
   <p><b>⚛️ Frontend &amp; Reactive UI Frameworks</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass,figma" alt="Frontend Tools" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass,figma" alt="Frontend Tools" /></a>
   <br><br>
 
   <!-- Backend & Database -->
   <p><b>⚙️ Backend Engineering, Databases &amp; Caching</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,mongodb,postgres,sqlite,mysql,prisma,firebase" alt="Backend &amp; DB" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,mongodb,postgres,sqlite,mysql,prisma,firebase" alt="Backend & DB" /></a>
   <br><br>
 
   <!-- DevOps & Cloud Tools -->
   <p><b>🚀 Cloud Infrastructure, DevOps &amp; Developer Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,powershell,postman,vscode,pnpm,vercel,bash,linux" alt="DevOps &amp; Tooling" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,powershell,postman,vscode,pnpm,vercel,bash,linux" alt="DevOps & Tooling" /></a>
 
 </div>
 
 <br>
 
 <!-- ================= GITHUB TELEMETRY & LIVE STREAKFORGE STATS ================= -->
-## 📊 Live GitHub Telemetry &amp; StreakForge Metrics
+## 📊 Live GitHub Telemetry & StreakForge Metrics
 
 <div align="center">
 
@@ -304,20 +274,14 @@
 
   <!-- Row 2: GitHub Streak Stats & Live StreakForge Verified Badge -->
   <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://streak-stats.vercel.app/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Streak Stats" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03"><img src="https://streak-stats.vercel.app/?user=Thanniru-yaswanth03&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Streak Stats" /></a>
     &nbsp;
-    <a href="https://streak-forge-six.vercel.app/" target="_blank">
-      <img src="https://streakforge-api-5uhs.onrender.com/api/v1/badge/streak.svg?user=Thanniru-yaswanth03&theme=dark" height="175" alt="Live StreakForge Verified Badge" />
-    </a>
+    <a href="https://streak-forge-six.vercel.app/" target="_blank"><img src="https://streakforge-api-5uhs.onrender.com/api/v1/badge/streak.svg?user=Thanniru-yaswanth03&theme=dark" height="175" alt="Live StreakForge Verified Badge" /></a>
   </p>
 
   <!-- Row 3: Annual Contribution Timeline -->
   <p align="center">
-    <a href="https://github.com/Thanniru-yaswanth03">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanniru-yaswanth03&theme=tokyonight" width="82%" alt="GitHub Contribution Overview" />
-    </a>
+    <a href="https://github.com/Thanniru-yaswanth03"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanniru-yaswanth03&theme=tokyonight" width="82%" alt="GitHub Contribution Overview" /></a>
   </p>
 
   <br>
@@ -332,7 +296,7 @@
 <br>
 
 <!-- ================= CONNECT & COLLABORATE ================= -->
-## 🤝 Let's Connect &amp; Build Together
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
@@ -340,39 +304,25 @@
 
   <br>
 
-  <a href="https://streak-forge-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20StreakForge%20V4.0-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="StreakForge" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-yash-529d.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://n1-pi-eight.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9A%A1%20N1%20Platform-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="N1 Platform" />
-  </a>
-  &nbsp;
-  <a href="https://progress-tracker-yash-529d.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%88%20ProgressTracker-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="ProgressTracker" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/RecallMemoryBot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:yash1th2k4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Thanniru-yaswanth03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p align="center">
+    <a href="https://streak-forge-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/StreakForge%20V4.0-238636?style=for-the-badge&logo=githubactions&logoColor=white" alt="StreakForge" /></a>
+    &nbsp;
+    <a href="https://portfolio-yash-529d.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/thanniru-yaswanth-0a26b931a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://n1-pi-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/N1%20Platform-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="N1 Platform" /></a>
+    &nbsp;
+    <a href="https://progress-tracker-yash-529d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ProgressTracker-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="ProgressTracker" /></a>
+    &nbsp;
+    <a href="https://t.me/RecallMemoryBot" target="_blank"><img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    &nbsp;
+    <a href="mailto:yash1th2k4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    &nbsp;
+    <a href="https://github.com/Thanniru-yaswanth03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- ================= FOOTER BANNER ================= -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,65:0284c7,100:6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
